@@ -28,8 +28,10 @@
 .additional-info {
     display: none;
     transition: opacity 0.3s, transform 0.3s;
+    z-index: 1;
 }
 
 .champion:hover .additional-info {
     display: block;
+    z-index: 2;
 }
