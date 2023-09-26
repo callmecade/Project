@@ -1,6 +1,7 @@
 /*champion box */
 .champion {
     text-align: center;
+    position: relative;
 }
 
 /*grid layout */
@@ -23,3 +24,12 @@
     margin: 10px 0;
 }
 
+/*HOVER over champion*/
+.additional-info {
+    display: none;
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+.champion:hover .additional-info {
+    display: block;
+}
