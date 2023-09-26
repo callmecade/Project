@@ -20,43 +20,79 @@
         <!-- Champion 1 -->
         <div class="champion">
             <h2>Flyweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/pantoja.png" alt="Champion ">
             <p>Alexandre Pantoja</p>
+
+            <p class="additional-info">
+                "THE CANNIBAL"
+                <br>Fight record (W-L-D) : 26-5-0 
+                <br>Nationality: Brazil 
+              </p>
         </div>
         
         <!-- Champion 2 -->
         <div class="champion">
             <h2>Bantamweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/suga.png" alt="Champion ">
             <p>Sean O'Malley</p>
+
+            <p class="additional-info">
+            "SUGA"
+            <br>Fight record (W-L-D) : 17-1-0 
+              <br>Nationality: United States of America 
+            </p>
         </div>
 
         <!-- Champion 3 -->
         <div class="champion">
             <h2>Featherweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/volk.png" alt="Champion ">
             <p>Alexander Volkanovski</p>
+
+            <p class="additional-info">
+                "THE GREAT"
+                <br>Fight record (W-L-D) : 26-2-0   
+                <br>Nationality: New Zealand
+              </p>
         </div>
 
         <!-- Champion 4 -->
         <div class="champion">
             <h2>Lightweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/makhachev.png" alt="Champion ">
             <p>Islam Makhachev</p>
+
+            <p class="additional-info">
+                No nickname
+                <br>Fight record (W-L-D) : 24-1-0  
+                <br>Nationality: Russia
+              </p>
         </div>
 
         <!-- Champion 5 -->
         <div class="champion">
             <h2>Welterweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/edwards.png" alt="Champion ">
             <p>Leon Edwards</p>
+
+            <p class="additional-info">
+                "ROCKY"
+                <br>Fight record (W-L-D) : 21-3-0  
+                <br>Nationality: United Kingdom
+              </p>
         </div>
 
         <!-- Champion 6 -->
         <div class="champion">
             <h2>Middleweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/strickland.png" alt="Champion ">
             <p>Sean Strickland</p>
+
+            <p class="additional-info">
+                "TARZAN"
+                <br>Fight record (W-L-D) : 28-5-0
+                <br>Nationality: United States of America   
+              </p>
         </div>
 
         <!-- Champion 7 -->
@@ -64,13 +100,25 @@
             <h2>Light Heavyweight</h2>
             <img src="" alt="Champion ">
             <p>Vacant Title</p>
+
+            <p class="additional-info">
+                null
+                <br>Fight record (W-L-D) : x-x-x  
+                <br>Nationality: x
+              </p>
         </div>
 
         <!-- Champion 8 -->
         <div class="champion">
             <h2>Heavyweight</h2>
-            <img src="" alt="Champion ">
+            <img src="champimages/jones.png" alt="Champion ">
             <p>Jon Jones</p>
+
+            <p class="additional-info">
+                "BONES"
+                <br>Fight record (W-L-D) : 27-1-0  
+                <br>Nationality: United States of America 
+              </p>
         </div>
 
         <!-- Add Woman's weight classes here -->
