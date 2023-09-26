@@ -7,7 +7,67 @@
 </style>
 </head>
 <body>
+    <div class="champions-grid">
 
+        <!-- Champion 1 -->
+        <div class="champion">
+            <h2>Flyweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+        
+        <!-- Champion 2 -->
+        <div class="champion">
+            <h2>Bantamweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 3 -->
+        <div class="champion">
+            <h2>Featherweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 4 -->
+        <div class="champion">
+            <h2>Lightweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 5 -->
+        <div class="champion">
+            <h2>Welterweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 6 -->
+        <div class="champion">
+            <h2>Middleweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 7 -->
+        <div class="champion">
+            <h2>Light Heavyweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Champion 8 -->
+        <div class="champion">
+            <h2>Heavyweight</h2>
+            <img src="" alt="Champion ">
+            <p>Champion Name </p>
+        </div>
+
+        <!-- Add Woman's weight classes here -->
+        
+    </div>
 
 
 </body>
