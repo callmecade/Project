@@ -35,3 +35,8 @@
     display: block;
     z-index: 2;
 }
+
+.champion img:hover{ 
+    content:attr(alternate-img);
+    transform: scale(1.2);
+}
