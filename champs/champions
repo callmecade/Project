@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+
 <title>UFC Champions</title>
+<link rel="stylesheet" type="text/css" href="champsstyle.css"> <!--External style sheet-->
+
 <style>
     
 </style>
+
 </head>
+
 <body>
+    <h1> Current UFC champions </h1>
+    <!--======================================================================================================-->
     <div class="champions-grid">
 
         <!-- Champion 1 -->
@@ -66,9 +74,9 @@
         </div>
 
         <!-- Add Woman's weight classes here -->
-        
-    </div>
 
+    </div>
+    <!--======================================================================================================-->
 
 </body>
 
