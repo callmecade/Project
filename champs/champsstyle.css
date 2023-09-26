@@ -1,0 +1,25 @@
+/*champion box */
+.champion {
+    text-align: center;
+}
+
+/*grid layout */
+.champions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /*column width*/
+    gap: 20px; /* gap between champion boxes */
+    padding: 20px;
+}
+
+/*champion image */
+.champion img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*champion names and weight classes */
+.champion h2,
+.champion p {
+    margin: 10px 0;
+}
+
