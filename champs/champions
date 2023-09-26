@@ -20,7 +20,7 @@
         <!-- Champion 1 -->
         <div class="champion">
             <h2>Flyweight</h2>
-            <img src="champimages/pantoja.png" alt="Champion ">
+            <img src="champimages/pantoja.png" alt="Champion " alternate-img="">
             <p>Alexandre Pantoja</p>
 
             <p class="additional-info">
@@ -33,7 +33,7 @@
         <!-- Champion 2 -->
         <div class="champion">
             <h2>Bantamweight</h2>
-            <img src="champimages/suga.png" alt="Champion ">
+            <img src="champimages/suga.png" alt="Champion " alternate-img="">
             <p>Sean O'Malley</p>
 
             <p class="additional-info">
@@ -46,7 +46,7 @@
         <!-- Champion 3 -->
         <div class="champion">
             <h2>Featherweight</h2>
-            <img src="champimages/volk.png" alt="Champion ">
+            <img src="champimages/volk.png" alt="Champion " alternate-img="">
             <p>Alexander Volkanovski</p>
 
             <p class="additional-info">
@@ -59,7 +59,7 @@
         <!-- Champion 4 -->
         <div class="champion">
             <h2>Lightweight</h2>
-            <img src="champimages/makhachev.png" alt="Champion ">
+            <img src="champimages/makhachev.png" alt="Champion " alternate-img="">
             <p>Islam Makhachev</p>
 
             <p class="additional-info">
@@ -72,7 +72,7 @@
         <!-- Champion 5 -->
         <div class="champion">
             <h2>Welterweight</h2>
-            <img src="champimages/edwards.png" alt="Champion ">
+            <img src="champimages/edwards.png" alt="Champion " alternate-img="">
             <p>Leon Edwards</p>
 
             <p class="additional-info">
@@ -85,7 +85,7 @@
         <!-- Champion 6 -->
         <div class="champion">
             <h2>Middleweight</h2>
-            <img src="champimages/strickland.png" alt="Champion ">
+            <img src="champimages/strickland.png" alt="Champion " alternate-img="">
             <p>Sean Strickland</p>
 
             <p class="additional-info">
@@ -98,7 +98,7 @@
         <!-- Champion 7 -->
         <div class="champion">
             <h2>Light Heavyweight</h2>
-            <img src="" alt="Champion ">
+            <img src="" alt="Champion " alternate-img="">
             <p>Vacant Title</p>
 
             <p class="additional-info">
@@ -111,7 +111,7 @@
         <!-- Champion 8 -->
         <div class="champion">
             <h2>Heavyweight</h2>
-            <img src="champimages/jones.png" alt="Champion ">
+            <img src="champimages/jones.png" alt="Champion " alternate-img="">
             <p>Jon Jones</p>
 
             <p class="additional-info">
