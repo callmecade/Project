@@ -20,6 +20,9 @@ body {
     grid-gap: 40px 40px;    
 }
 
+.otherpages img{
+    width: 200px; 
+    height: 150px; }
 
 </style>
 
@@ -29,19 +32,19 @@ body {
 <div class="otherpages">
 
     <div class="rulespage">
-        <img src="" alt="">
+        <img src="Imagesngifs/pufclogo.png" alt="ufclogo">
     </div>
 
     <div class="legendspage">
-        <img src="" alt="">
+        <img src="Imagesngifs/pstar.png" alt="star">
     </div>
 
     <div class="rankingspage">
-        <img src="" alt="">
+        <img src="Imagesngifs/pranking.png" alt="ranking">
     </div>
 
     <div class="champspage">
-        <img src="" alt="">
+        <img src="Imagesngifs/ptrophy.png" alt="trophy">
     </div>
 
 </div> 
