@@ -9,8 +9,15 @@ body {
     background-size: cover; 
     background-repeat: no-repeat;
     background-attachment: fixed; 
-   width: 100%; /* Make it cover the entire viewport width */
+
+    width: 100%; /* Make it cover the entire viewport width */
     height: 100vh; /* Make it cover the entire viewport height */
+}
+
+.otherpages{
+    display: grid;   
+    grid-template-columns:repeat(auto-fit) ;
+    grid-gap: 40px 40px;    
 }
 
 
@@ -19,9 +26,25 @@ body {
 </head>
 
 <body>
-   <!-- <video autoplay muted>
-        <source src="Imagesngifs/Opening.gif" type="video/gif">
-    </video>-->
+<div class="otherpages">
+
+    <div class="rulespage">
+        <img src="" alt="">
+    </div>
+
+    <div class="legendspage">
+        <img src="" alt="">
+    </div>
+
+    <div class="rankingspage">
+        <img src="" alt="">
+    </div>
+
+    <div class="champspage">
+        <img src="" alt="">
+    </div>
+
+</div> 
 
 
 </body>
