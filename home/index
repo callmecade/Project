@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>UFC Geocity</title>
+<style>
+body {
+    background-image: url('Imagesngifs/rnbback.gif') ;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+   width: 100%; /* Make it cover the entire viewport width */
+    height: 100vh; /* Make it cover the entire viewport height */
+}
+
+
+</style>
+
+</head>
+
+<body>
+   <!-- <video autoplay muted>
+        <source src="Imagesngifs/Opening.gif" type="video/gif">
+    </video>-->
+
+
+</body>
+
+
+
+</html>
