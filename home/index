@@ -10,14 +10,24 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed; 
 
-    width: 100%; /* Make it cover the entire viewport width */
-    height: 100vh; /* Make it cover the entire viewport height */
+    width: 100%; /*cover the entire viewport width */
+    height: 100vh; /* cover the entire viewport height */
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    justify-content: space-around;
 }
 
-.otherpages{
+/*.otherpages{
     display: grid;   
     grid-template-columns:repeat(auto-fit) ;
     grid-gap: 40px 40px;    
+}*/
+.otherpages {
+    display: flex;
+    height: 150px;
+    justify-content: center; 
+    align-items: center; 
+    margin: 20px;
 }
 
 .otherpages img{
