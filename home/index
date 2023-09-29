@@ -42,19 +42,19 @@ body {
 <div class="otherpages">
 
     <div class="rulespage">
-        <img src="Imagesngifs/pufclogo.png" alt="ufclogo">
+        <a href="/other/otherpage"><img src="Imagesngifs/pufclogo.png" alt="ufclogo"></a>
     </div>
 
     <div class="legendspage">
-        <img src="Imagesngifs/pstar.png" alt="star">
+        <a href="/Notable fighters/ufclegends"><img src="Imagesngifs/pstar.png" alt="star"></a>
     </div>
 
     <div class="rankingspage">
-        <img src="Imagesngifs/pranking.png" alt="ranking">
+        <a href="/rankings/crankings"><img src="Imagesngifs/pranking.png" alt="ranking"></a>
     </div>
 
     <div class="champspage">
-        <img src="Imagesngifs/ptrophy.png" alt="trophy">
+        <a href="/champs/champions"><img src="Imagesngifs/ptrophy.png" alt="trophy"></a>
     </div>
 
 </div> 
